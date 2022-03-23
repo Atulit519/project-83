@@ -1,0 +1,24 @@
+#background_img{
+    background-image: url("https://png.pngtree.com/background/20210712/original/pngtree-abstract-modern-neon-frame-background-picture-image_1178251.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#my_canvas{
+    background-color: white;
+}
+
+h1{
+    color: goldenrod;
+}
+
+span{
+    color: goldenrod;
+    font-size: 20px;
+}
+
+#clear_button{
+    height: 30px;
+    background-color: greenyellow;
+    color: goldenrod;
+}
